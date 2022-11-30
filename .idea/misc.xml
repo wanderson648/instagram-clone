@@ -7,6 +7,8 @@
         <entry key="..\:/Users/wanderson/Desktop/clone_instagram/app/src/main/res/drawable/ic_more.xml" value="0.1465" />
         <entry key="..\:/Users/wanderson/Desktop/clone_instagram/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/wanderson/Desktop/clone_instagram/app/src/main/res/layout/activity_main.xml" value="0.19322916666666667" />
+        <entry key="..\:/Users/wanderson/Desktop/clone_instagram/app/src/main/res/layout/button_loading.xml" value="0.20625" />
+        <entry key="..\:/Users/wanderson/Desktop/clone_instagram/app/src/main/res/layout/loading_button.xml" value="0.33" />
       </map>
     </option>
   </component>
