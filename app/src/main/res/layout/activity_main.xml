@@ -40,10 +40,10 @@
         <fragment
             app:layout_behavior="@string/appbar_scrolling_view_behavior"
             android:id="@+id/main_fragment"
-            android:name="com.example.clone_instagram.search.view.FragmentSearch"
+            android:name="com.example.clone_instagram.camera.view.FragmentCamera"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            tools:layout="@layout/fragment_search" />
+            tools:layout="@layout/fragment_camera" />
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 
